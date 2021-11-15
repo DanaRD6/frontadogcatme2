@@ -7,21 +7,32 @@ body{
 }
 
 header{
-    align-items: left;
+    align-items: center;
+    align-self: center;
     display: flex;
+    justify-content: center;
     background-color: #F4A261;
     height: 25%;
     width: 100%;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .titulo{
-    margin: 4%;
-    font-size: 70px;
+    
+    font-size: 90px;
 }
 
 .logo{
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 150px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.logo img{
+    width: 150px;
+    height: 150px;
 }
 
 main{
