@@ -102,6 +102,7 @@ p{
     background-color: #E76F51;
     border-color: #E76F51;
     text-decoration-color: black;
+    border: none;
 }
 
 .btn-adoptar:hover{

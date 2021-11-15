@@ -63,6 +63,7 @@ h1{
     width: 100%;
     height: 100px;
     background-color: #E9C46A;
+    border: none;
 }
 
 .boton-adop:hover{
@@ -80,6 +81,7 @@ h1{
     width: 100%;
     height: 100px;
     background-color: #E76F51;
+    border: none;
 }
 
 .boton-dueno:hover{
